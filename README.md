@@ -24,3 +24,21 @@ These were the questions that I proposed to answer through an extensive analyse 
 ## How to navigate through this dashboard
 
 ### You can follow interactive arrows
+
+<img src='dashboard_images/arrows.png'>
+
+### or click on this icon
+
+<img src='dashboard_images/hamburger menu.png'>
+
+### to pull a Navigation Pane
+
+<img src='dashboard_images/navigation_pane.gif'>
+
+### some visualisations are also interactive
+
+<img src='dashboard_images/interactive_visualisations.gif'>
+
+### There are dedicated sections EDA, Discussion, Conclusion and more
+
+<img src='dashboard_images/EDA.png'>
