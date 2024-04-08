@@ -25,7 +25,9 @@ These were the questions that I proposed to answer through an extensive analyse 
 
 ### You can follow interactive arrows
 
+---
 <img src='dashboard_images/arrows.png'>
+---
 
 ### or click on this icon
 
@@ -33,12 +35,23 @@ These were the questions that I proposed to answer through an extensive analyse 
 
 ### to pull a Navigation Pane
 
+---
 <img src='dashboard_images/navigation_pane.gif'>
+---
 
 ### some visualisations are also interactive
 
+---
 <img src='dashboard_images/interactive_visualisations.gif'>
+---
 
 ### There are dedicated sections EDA, Discussion, Conclusion and more
 
+---
 <img src='dashboard_images/EDA.png'>
+---
+
+If you would like to ask me a question about this project please contact me at:
+
+- francisco.ribeiro.mansilha@gmail.com
+- [my linkedin profile](https://www.linkedin.com/in/francisco-mansilha-b28a27230/)
