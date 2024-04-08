@@ -6,7 +6,7 @@ This was my first university project. It was completed in November of 2022, and 
 
 The objective of this project was to look into the sustainable development goals, find the one that captures our interest the most and use publicly available data and storytelling techniques to answer a problem/question about that particular SDG 
 
-Creating this project helped me learn and develop my skills about:
+Creating this project helped me learn and develop skills such as:
 
 - Data cleaning
 - Data Visualisarion
