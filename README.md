@@ -17,7 +17,7 @@ Creating this project helped me learn and develop my skills about:
 
 ## Problem statements:
 
-What is the __current state of overfishing__ in the world **and** how can it be reduced?
+What is the __current state of overfishing__ in the world and how can it be __reduced__?
 
 These were the questions that I proposed to answer through an extensive analyse of publicly available data
 
