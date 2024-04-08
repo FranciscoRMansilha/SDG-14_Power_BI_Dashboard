@@ -1,10 +1,10 @@
-# :wave: Sustainable DDevelopment Goal 14 (Life below Water) Dashboard
+# :wave: Sustainable Development Goal 14 (Life below Water) Dashboard
 
 ## 🤓 Project overview
 
-This was my first university project. It was completed in November of 2022, and it was the first time I handled data of such magnitude! 🚀📊
+This was my first university project. It was completed in November of 2022, and it was the first time I handled data of such magnitude! 
 
-The objective of this project was to look into the sustainable development goals, find the one that captures us the most and use publicly available data and storytelling to answer a question about it of our choice.
+The objective of this project was to look into the sustainable development goals, find the one that captures our interest the most and use publicly available data and storytelling techniques to answer a problem/question about that particular SDG 
 
 Creating this project helped me learn and develop my skills about:
 
@@ -27,22 +27,28 @@ These were the questions that I proposed to answer through an extensive analyse 
 
 ---
 <img src='dashboard_images/arrows.png'>
+
 ---
 
-### or click on this icon
+### Or click on this icon
 
+---
 <img src='dashboard_images/hamburger menu.png'>
 
-### to pull a Navigation Pane
+---
+
+### To pull a Navigation Pane
 
 ---
 <img src='dashboard_images/navigation_pane.gif'>
+
 ---
 
-### some visualisations are also interactive
+### Some visualisations are also interactive
 
 ---
 <img src='dashboard_images/interactive_visualisations.gif'>
+
 ---
 
 ### There are dedicated sections EDA, Discussion, Conclusion and more
@@ -51,7 +57,9 @@ These were the questions that I proposed to answer through an extensive analyse 
 <img src='dashboard_images/EDA.png'>
 ---
 
-If you would like to ask me a question about this project please contact me at:
+Feel free to ask me any question about this project! 😉
+
+You can contact me at:
 
 - francisco.ribeiro.mansilha@gmail.com
 - [my linkedin profile](https://www.linkedin.com/in/francisco-mansilha-b28a27230/)
