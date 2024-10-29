@@ -64,4 +64,4 @@ Feel free to ask me any question about this project! 😉
 You can contact me at:
 
 - francisco.ribeiro.mansilha@gmail.com
-- [my linkedin profile](https://www.linkedin.com/in/francisco-mansilha-b28a27230/)
+- [my linkedin profile](https://www.linkedin.com/in/francisco-mansilha/)
