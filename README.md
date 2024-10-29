@@ -54,7 +54,9 @@ These were the questions that I proposed to answer through an extensive analyse 
 ### There are dedicated sections EDA, Discussion, Conclusion and more
 
 ---
+
 <img src='dashboard_images/EDA.png'>
+
 ---
 
 Feel free to ask me any question about this project! 😉
